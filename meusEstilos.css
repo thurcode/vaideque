@@ -1,0 +1,36 @@
+/* ocutar barra de rolagem horizontal */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+overflow-x:hidden;
+}
+body{
+    /*background-color: #4BC2F1;*/
+}
+
+.rodape{
+	text-align: center;
+	align: center;
+	align-items: center;
+	padding-top: 15px;
+	margin: 0px;
+	font-size: 2.3vmin;
+}
+footer{
+	width: 100%;
+	height: 100px;
+	
+}
+#borda-menu{
+	border-bottom: 3px solid #000000;
+	
+}
+#borda-rodape{
+	border-top: 3px solid #000000;
+}
+.borda-texto-menu{
+	border-right: 2px solid #000000;
+	
+}
